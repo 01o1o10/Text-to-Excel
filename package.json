@@ -1,0 +1,24 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  },
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.11",
+    "jQuery": "^1.7.4",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "node-mysql": "^0.4.2",
+    "request": "^2.87.0",
+    "xlsx": "^0.13.1"
+  },
+  "keywords": [],
+  "description": ""
+}
